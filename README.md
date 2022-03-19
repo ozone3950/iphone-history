@@ -1,3 +1,14 @@
+# History of the iPhone
+
+This repository contains the history of the iPhone including the specs, release date, MSRP, and a small note about the phone. It will be updated to every release in the future. There are currently 34 iPhones.
+
+### Sources: 
+
+[GSMArena](https://m.gsmarena.com/)
+
+[Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page)
+
+
 # iPhone 2G 
 
 The release of the first iPhone. Steve Jobs introduced this phone as both smart and easy to use, contrasting from the current phone market, and changing innovation for phones entirely. 
@@ -84,13 +95,13 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 # iPhone X
 
 
-# iPhone XR
-
-
 # iPhone XS
 
 
 # iPhone XS Max
+
+
+# iPhone XR
 
 
 # iPhone 11
