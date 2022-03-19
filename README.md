@@ -38,3 +38,95 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 - Camera: 3 MP
 - Battery: 1400 mAh
 - Base MSRP: $199
+
+# iPhone 4
+
+
+# iPhone 4S
+
+
+# iPhone 5
+
+
+# iPhone 5S
+
+
+# iPhone 5C
+
+
+# iPhone 6
+
+
+# iPhone 6 Plus
+
+
+# iPhone 6S 
+
+
+# iPhone 6S Plus
+
+
+# iPhone SE 
+
+
+# iPhone 7
+
+
+# iPhone 7 Plus
+
+
+# iPhone 8
+
+
+# iPhone 8 Plus
+
+
+# iPhone X
+
+
+# iPhone XR
+
+
+# iPhone XS
+
+
+# iPhone XS Max
+
+
+# iPhone 11
+
+
+# iPhone 11 Pro
+
+
+# iPhone 11 Pro Max
+
+
+# iPhone SE (2nd Gen)
+
+
+# iPhone 12
+
+
+# iPhone 12 Mini
+
+
+# iPhone 12 Pro
+
+
+# iPhone 12 Pro Max
+
+
+# iPhone 13 
+
+
+# iPhone 13 Mini
+
+
+# iPhone 13 Pro
+
+
+# iPhone 13 Pro Max
+
+
+# iPhone SE (3rd Gen)
