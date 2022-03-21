@@ -52,92 +52,371 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 4
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 4S
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 5
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 5S
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 5C
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 6
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 6 Plus
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 6S 
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 6S Plus
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone SE 
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 7
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 7 Plus
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 8
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 8 Plus
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone X
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone XS
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone XS Max
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone XR
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 11
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 11 Pro
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 11 Pro Max
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone SE (2nd Gen)
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 12
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 12 Mini
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 12 Pro
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 12 Pro Max
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
-# iPhone 13 
+
+# iPhone 13
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP:  
 
 
 # iPhone 13 Mini
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone 13 Pro
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
 
 
 # iPhone 13 Pro Max
 
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
+
 
 # iPhone SE (3rd Gen)
+
+- Chipset: 
+- Memory: 
+- Storage: 
+- Screen Size: 
+- Resolution: 
+- Camera: 
+- Battery: 
+- Base MSRP: 
