@@ -8,6 +8,8 @@ This repository contains the history of the iPhone including the specs, release 
 
 [Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page)
 
+[Mashable](https://www.google.com/amp/s/mashable.com/article/size-and-price-of-every-iphone-ever-released%3famp)
+
 
 # iPhone 2G 
 
@@ -34,7 +36,7 @@ Slightly revised with 3G LTE and better performance, Apple dropped the price of 
 - Resolution: 320x480 (165 PPI)
 - Camera: 2 MP
 - Battery: 1220 mAh
-- Base MSRP: $199
+- Base MSRP: $499
 
 
 # iPhone 3GS
@@ -43,131 +45,131 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 - Chipset: Cortex-A8 600MHz
 - Memory: 256MHz
-- Storage: 8/16GB/32GB
+- Storage: 8GB/16GB/32GB
 - Screen Size: 3.5"
 - Resolution: 320x480 (165 PPI)
 - Camera: 3 MP
 - Battery: 1400 mAh
-- Base MSRP: $199
+- Base MSRP: $599
 
 # iPhone 4
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A4
+- Memory: 512MB
+- Storage: 8GB/16GB/32GB
+- Screen Size: 3.5"
+- Resolution: 640x960 (330 PPI)
+- Camera: 5 MP
+- Battery: 1420 mAh
+- Base MSRP: $649
 
 
 # iPhone 4S
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A5
+- Memory: 512MB
+- Storage: 8GB/16GB/32GB/64GB
+- Screen Size: 3.5"
+- Resolution: 640x960 (330 PPI)
+- Camera: 8 MP
+- Battery: 1432 mAh
+- Base MSRP: $649
 
 
 # iPhone 5
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
-
-
-# iPhone 5S
-
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A6
+- Memory: 1GB
+- Storage: 16GB/32GB/64GB
+- Screen Size: 4"
+- Resolution: 640x1163 (326 PPI)
+- Camera: 8 MP
+- Battery: 1440 mAh
+- Base MSRP: $649
 
 
 # iPhone 5C
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A6
+- Memory: 1GB
+- Storage: 8GB/16GB/32GB
+- Screen Size: 4"
+- Resolution: 640x1163 (326 PPI)
+- Camera: 8 MP
+- Battery: 1510 mAh
+- Base MSRP: $549
+
+
+# iPhone 5S
+
+- Chipset: Apple A7
+- Memory: 1GB
+- Storage: 16GB/32GB/64GB
+- Screen Size: 4"
+- Resolution: 640x1163 (326 PPI)
+- Camera: 8 MP
+- Battery: 1560 mAh
+- Base MSRP: $649
 
 
 # iPhone 6
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A8
+- Memory: 1GB
+- Storage: 16GB/32GB/64GB/128GB
+- Screen Size: 4.7"
+- Resolution: 750x1334 (326 PPI)
+- Camera: 8 MP
+- Battery: 1810 mAh
+- Base MSRP: $649
 
 
 # iPhone 6 Plus
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A8
+- Memory: 1GB
+- Storage: 16GB/32GB/64GB/128GB
+- Screen Size: 5.5"
+- Resolution: 1080x1920 (401 PPI)
+- Camera: 8 MP
+- Battery: 2915 mAh
+- Base MSRP: $749
 
 
 # iPhone 6S 
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A9
+- Memory: 2GB
+- Storage: 16GB/32GB/64GB/128GB
+- Screen Size: 4.7"
+- Resolution: 750x1334 (326 PPI)
+- Camera: 12 MP
+- Battery: 1715 mAh
+- Base MSRP: $649
 
 
 # iPhone 6S Plus
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A9
+- Memory: 2GB
+- Storage: 16GB/32GB/64GB/128GB
+- Screen Size: 5.5"
+- Resolution: 1080x1920 (401 PPI)
+- Camera: 12 MP
+- Battery: 2750 mAh
+- Base MSRP: $749
 
 
 # iPhone SE 
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
-- Base MSRP: 
+- Chipset: Apple A9
+- Memory: 2GB
+- Storage: 16GB/32GB/64GB/128GB
+- Screen Size: 4"
+- Resolution: 640x1136 (326 PPI)
+- Camera: 12 MP
+- Battery: 1624 mAh
+- Base MSRP: $399
 
 
 # iPhone 7
