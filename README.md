@@ -46,7 +46,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 4
 
-<IMG src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_4.png" width="600">
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_4.png" width="600">
 
 - Chipset: Apple A4
 - Memory: 512MB
@@ -144,7 +144,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 6S
 
-<img src="https://www.imore.com/sites/imore.com/files/topic_images/2015/iphone-6s-topic.png" width"600">
+<img src="https://www.imore.com/sites/imore.com/files/topic_images/2015/iphone-6s-topic.png" width="600">
 
 - Chipset: Apple A9
 - Memory: 2GB
@@ -158,7 +158,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 6S Plus
 
-<img src="https://www.imore.com/sites/imore.com/files/topic_images/2015/iphone-6s-plus-topic.png" width"600">
+<img src="https://www.imore.com/sites/imore.com/files/topic_images/2015/iphone-6s-plus-topic.png" width="600">
 
 - Chipset: Apple A9
 - Memory: 2GB
@@ -172,7 +172,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone SE
 
-<img src="" width"600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/IPhone_SE_in_silver.png" width="150">
 
 - Chipset: Apple A9
 - Memory: 2GB
@@ -186,7 +186,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 7
 
-<img src="" width"600">
+<img src="" width="600>
 
 - Chipset: Apple A10 Fusion
 - Memory: 2GB
