@@ -200,29 +200,29 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 - Chipset: Apple A11 Bionic
 - Memory: 2GB
-- Storage: 
+- Storage: 64GB/128GB/256GB
 - Screen Size: 4.7"
 - Resolution: 750x1334 (326 PPI)
-- Camera: 
-- Battery: 
+- Camera: 12 MP
+- Battery: 1821 mAh
 - Base MSRP: $699
 
 
 # iPhone 8 Plus
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A11 Bionic
+- Memory: 3GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 5.5"
+- Resolution: 1920x1080 (401 PPI)
+- Camera: Dual 12 MP
+- Battery: 2691 mAh
 - Base MSRP: $799
 
 
 # iPhone X
 
-- Chipset: 
+- Chipset: Apple A11 Bionic
 - Memory: 
 - Storage: 
 - Screen Size: 
