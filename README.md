@@ -2,18 +2,10 @@
 
 This repository contains the history of the iPhone including the specs, release date, MSRP, and a small note about the phone. It will be updated to every release in the future. There are currently 34 iPhones.
 
-### Sources: 
-
-[GSMArena](https://m.gsmarena.com/)
-
-[Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page)
-
-[Mashable](https://www.google.com/amp/s/mashable.com/article/size-and-price-of-every-iphone-ever-released%3famp)
-
 
 # iPhone 2G 
 
-The release of the first iPhone. Steve Jobs introduced this phone as both smart and easy to use, contrasting from the current phone market, and changing innovation for phones entirely. 
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_2g.png" width="600">
 
 - Chipset: ARM 11 412MHz
 - Memory: 128MB
@@ -27,7 +19,7 @@ The release of the first iPhone. Steve Jobs introduced this phone as both smart 
 
 # iPhone 3G 
 
-Slightly revised with 3G LTE and better performance, Apple dropped the price of the iPhone by under half.
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_3g.png" width="600">
 
 - Chipset: ARM 11 412MHz
 - Memory: 128MB
@@ -41,7 +33,7 @@ Slightly revised with 3G LTE and better performance, Apple dropped the price of 
 
 # iPhone 3GS
 
-The mark of the first "S" revision of the iPhone. Around 2 times better performance, and a better camera that can even record video.
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_3gs.png" width="600">
 
 - Chipset: Cortex-A8 600MHz
 - Memory: 256MHz
@@ -53,6 +45,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 - Base MSRP: $599
 
 # iPhone 4
+
+<IMG src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_4.png" width="600">
 
 - Chipset: Apple A4
 - Memory: 512MB
@@ -66,6 +60,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 4S
 
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_4s.png" width="600">
+
 - Chipset: Apple A5
 - Memory: 512MB
 - Storage: 8GB/16GB/32GB/64GB
@@ -77,6 +73,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 5
+
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_5.png" width="600">
 
 - Chipset: Apple A6
 - Memory: 1GB
@@ -90,6 +88,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 5C
 
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_5c.png" width="600">
+
 - Chipset: Apple A6
 - Memory: 1GB
 - Storage: 8GB/16GB/32GB
@@ -101,6 +101,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 5S
+
+<img src="https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_iphone_5s.png" width="600">
 
 - Chipset: Apple A7
 - Memory: 1GB
@@ -114,6 +116,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 6
 
+<img src="https://www.imore.com/sites/imore.com/files/topic_images/2014/iphone_6_temp_topic_fixed.png" width="600">
+
 - Chipset: Apple A8
 - Memory: 1GB
 - Storage: 16GB/32GB/64GB/128GB
@@ -126,6 +130,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 6 Plus
 
+<img src="https://www.imore.com/sites/imore.com/files/topic_images/2014/iphone_6_plus_temp_topic_icon.png" width="600">
+
 - Chipset: Apple A8
 - Memory: 1GB
 - Storage: 16GB/32GB/64GB/128GB
@@ -136,7 +142,9 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 - Base MSRP: $749
 
 
-# iPhone 6S 
+# iPhone 6S
+
+<img src="https://www.imore.com/sites/imore.com/files/topic_images/2015/iphone-6s-topic.png" width"600">
 
 - Chipset: Apple A9
 - Memory: 2GB
@@ -150,6 +158,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 6S Plus
 
+<img src="https://www.imore.com/sites/imore.com/files/topic_images/2015/iphone-6s-plus-topic.png" width"600">
+
 - Chipset: Apple A9
 - Memory: 2GB
 - Storage: 16GB/32GB/64GB/128GB
@@ -160,7 +170,9 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 - Base MSRP: $749
 
 
-# iPhone SE 
+# iPhone SE
+
+<img src="" width"600">
 
 - Chipset: Apple A9
 - Memory: 2GB
@@ -174,6 +186,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 7
 
+<img src="" width"600">
+
 - Chipset: Apple A10 Fusion
 - Memory: 2GB
 - Storage: 32GB, 128GB, 256GB
@@ -185,6 +199,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 7 Plus
+
+<img src="" width"600">
 
 - Chipset: Apple A10 Fusion
 - Memory: 3GB
@@ -198,6 +214,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 8
 
+<img src="" width"600">
+
 - Chipset: Apple A11 Bionic
 - Memory: 2GB
 - Storage: 64GB/128GB/256GB
@@ -209,6 +227,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 8 Plus
+
+<img src="" width"600">
 
 - Chipset: Apple A11 Bionic
 - Memory: 3GB
@@ -222,6 +242,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone X
 
+<img src="" width"600">
+
 - Chipset: Apple A11 Bionic
 - Memory: 3GB 
 - Storage: 64GB/256GB
@@ -233,6 +255,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone XR
+
+<img src="" width"600">
 
 - Chipset: Apple A12
 - Memory: 3GB
@@ -246,6 +270,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone XS
 
+<img src="" width"600">
+
 - Chipset: Apple A12
 - Memory: 4GB
 - Storage: 64GB/256GB/512GB
@@ -257,6 +283,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone XS Max
+
+<img src="" width"600">
 
 - Chipset: Apple A12 Bionic
 - Memory: 4GB
@@ -270,6 +298,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 11
 
+<img src="" width"600">
+
 - Chipset: Apple A13 Bionic 
 - Memory: 4GB
 - Storage: 64GB/128GB/256GB
@@ -281,6 +311,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 11 Pro
+
+<img src="" width"600">
 
 - Chipset: Apple A13 Bionic 
 - Memory: 4GB
@@ -294,6 +326,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 11 Pro Max
 
+<img src="" width"600">
+
 - Chipset: Apple A13 Bionic 
 - Memory: 4GB
 - Storage: 64GB/256GB/512GB
@@ -305,6 +339,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone SE (2nd Gen)
+
+<img src="" width"600">
 
 - Chipset: Apple A13 Bionic 
 - Memory: 3GB
@@ -318,6 +354,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 12 Mini
 
+<img src="" width"600">
+
 - Chipset: Apple A14 Bionic 
 - Memory: 4GB
 - Storage: 64GB/128GB/256GB
@@ -329,6 +367,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 12
+
+<img src="" width"600">
 
 - Chipset: Apple A14 Bionic 
 - Memory: 4GB
@@ -342,6 +382,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 12 Pro
 
+<img src="" width"600">
+
 - Chipset: Apple A14 Bionic 
 - Memory: 6GB
 - Storage: 128GB/256GB/512GB
@@ -353,6 +395,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 12 Pro Max
+
+<img src="" width"600">
 
 - Chipset: Apple A14 Bionic 
 - Memory: 6GB
@@ -366,6 +410,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 13 Mini
 
+<img src="" width"600">
+
 - Chipset: Apple A15 Bionic 
 - Memory: 4GB
 - Storage: 128GB/256GB/512GB
@@ -377,6 +423,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 13
+
+<img src="" width"600">
 
 - Chipset: Apple A15 Bionic
 - Memory: 4GB
@@ -390,6 +438,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone 13 Pro
 
+<img src="" width"600">
+
 - Chipset: Apple A15 Bionic
 - Memory: 6GB
 - Storage: 128GB/256GB/512GB/1TB
@@ -401,6 +451,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 
 # iPhone 13 Pro Max
+
+<img src="" width"600">
 
 - Chipset: Apple A15 Bionic
 - Memory: 6GB
@@ -414,6 +466,8 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 
 # iPhone SE (3rd Gen)
 
+<img src="" width"600">
+
 - Chipset: Apple A15 Bionic
 - Memory: 4GB
 - Storage: 64GB/128GB/256GB
@@ -422,3 +476,16 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 - Camera: 12 MP
 - Battery: 2018 mAh
 - Base MSRP: $419
+
+
+# Sources: 
+
+[GSMArena](https://m.gsmarena.com/) - Specs
+
+[Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page) - Release Dates
+
+[Mashable](https://www.google.com/amp/s/mashable.com/article/size-and-price-of-every-iphone-ever-released%3famp) - MSRP
+
+[iMore](https://www.imore.com/) - Images
+
+
