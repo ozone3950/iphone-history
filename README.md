@@ -223,202 +223,202 @@ The mark of the first "S" revision of the iPhone. Around 2 times better performa
 # iPhone X
 
 - Chipset: Apple A11 Bionic
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Memory: 3GB 
+- Storage: 64GB/256GB
+- Screen Size: 5.8"
+- Resolution: 1125x2436 (458 PPI)
+- Camera: Dual 12 MP
+- Battery: 2716 mAh
 - Base MSRP: $999
 
 
 # iPhone XR
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A12
+- Memory: 3GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 6.1"
+- Resolution: 828x1792 (326 PPI)
+- Camera: 12 MP
+- Battery: 2942 mAh
 - Base MSRP: $749
 
 
 # iPhone XS
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A12
+- Memory: 4GB
+- Storage: 64GB/256GB/512GB
+- Screen Size: 5.8"
+- Resolution: 1125x2436 (458 PPI)
+- Camera: Dual 12 MP
+- Battery: 2658 mAh
 - Base MSRP: $999
 
 
 # iPhone XS Max
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A12 Bionic
+- Memory: 4GB
+- Storage: 64GB/256GB/512GB
+- Screen Size: 6.5"
+- Resolution: 1242x2688 (458 PPI)
+- Camera: Dual 12 MP
+- Battery: 3174 mAh
 - Base MSRP: $1099
 
 
 # iPhone 11
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A13 Bionic 
+- Memory: 4GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 6.1"
+- Resolution: 828x1792 (326 PPI)
+- Camera: Dual 12 MP
+- Battery: 3110 mAh
 - Base MSRP: $699
 
 
 # iPhone 11 Pro
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A13 Bionic 
+- Memory: 4GB
+- Storage: 64GB/256GB/512GB
+- Screen Size: 5.8"
+- Resolution: 1125x2436 (458 PPI)
+- Camera: Triple 12 MP
+- Battery: 3046 mAh
 - Base MSRP: $999
 
 
 # iPhone 11 Pro Max
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A13 Bionic 
+- Memory: 4GB
+- Storage: 64GB/256GB/512GB
+- Screen Size: 6.5"
+- Resolution: 1242x2688 (458 PPI)
+- Camera: Triple 12 MP
+- Battery: 3969 mAh
 - Base MSRP: $1099
 
 
 # iPhone SE (2nd Gen)
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A13 Bionic 
+- Memory: 3GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 4.7"
+- Resolution: 750x1334 (326 PPI)
+- Camera: 12 MP
+- Battery: 1812 mAh
 - Base MSRP: $399
 
 
 # iPhone 12 Mini
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A14 Bionic 
+- Memory: 4GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 5.4"
+- Resolution: 1080x2340 (476 PPI)
+- Camera: Dual 12 MP
+- Battery: 2227 mAh
 - Base MSRP: $699
 
 
 # iPhone 12
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A14 Bionic 
+- Memory: 4GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 6.1"
+- Resolution: 1170x2532 (460 PPI)
+- Camera: Dual 12 MP
+- Battery: 2815 mAh
 - Base MSRP: $799
 
 
 # iPhone 12 Pro
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A14 Bionic 
+- Memory: 6GB
+- Storage: 128GB/256GB/512GB
+- Screen Size: 6.1"
+- Resolution: 1170x2532 (460 PPI)
+- Camera: Triple 12 MP
+- Battery: 2815 mAh
 - Base MSRP: $999
 
 
 # iPhone 12 Pro Max
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A14 Bionic 
+- Memory: 6GB
+- Storage: 128GB/256GB/512GB
+- Screen Size: 6.7"
+- Resolution: 1248x2778 (458 PPI)
+- Camera: Triple 12 MP
+- Battery: 3687 mAh
 - Base MSRP: $1099
 
 
 # iPhone 13 Mini
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A15 Bionic 
+- Memory: 4GB
+- Storage: 128GB/256GB/512GB
+- Screen Size: 5.4"
+- Resolution: 1080x2340 (476 PPI)
+- Camera: Dual 12 MP
+- Battery: 2438 mAh
 - Base MSRP: $699
 
 
 # iPhone 13
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A15 Bionic
+- Memory: 4GB
+- Storage: 128GB/256GB/512GB
+- Screen Size: 6.1"
+- Resolution: 1170x2532 (460 PPI)
+- Camera: Dual 12 MP
+- Battery: 3240 mAh
 - Base MSRP: $799
 
 
 # iPhone 13 Pro
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A15 Bionic
+- Memory: 6GB
+- Storage: 128GB/256GB/512GB/1TB
+- Screen Size: 6.1"
+- Resolution: 1170x2532 (460 PPI)
+- Camera: Dual 12 MP
+- Battery: 3095 mAh
 - Base MSRP: $999
 
 
 # iPhone 13 Pro Max
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A15 Bionic
+- Memory: 6GB
+- Storage: 128GB/256GB/512GB/1TB
+- Screen Size: 6.7"
+- Resolution: 1284x2778 (458 PPI)
+- Camera: Triple 12 MP
+- Battery: 4352 mAh
 - Base MSRP: $1099
 
 
 # iPhone SE (3rd Gen)
 
-- Chipset: 
-- Memory: 
-- Storage: 
-- Screen Size: 
-- Resolution: 
-- Camera: 
-- Battery: 
+- Chipset: Apple A15 Bionic
+- Memory: 4GB
+- Storage: 64GB/128GB/256GB
+- Screen Size: 4.7"
+- Resolution: 750x1334 (326 PPI)
+- Camera: 12 MP
+- Battery: 2018 mAh
 - Base MSRP: $419
