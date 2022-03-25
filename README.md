@@ -116,7 +116,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 6
 
-<img src="https://www.imore.com/sites/imore.com/files/topic_images/2014/iphone_6_temp_topic_fixed.png" width="600">
+<img src="https://user-images.githubusercontent.com/91910634/160188197-b43e3d8d-97ee-4d7f-a930-9e1253fc2f11.png" width="400">
 
 - Chipset: Apple A8
 - Memory: 1GB
@@ -130,7 +130,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 6 Plus
 
-<img src="https://www.imore.com/sites/imore.com/files/topic_images/2014/iphone_6_plus_temp_topic_icon.png" width="600">
+<img src="https://user-images.githubusercontent.com/91910634/160188700-33a7c000-1918-48d5-83a8-255ddbf73a52.png" width="400">
 
 - Chipset: Apple A8
 - Memory: 1GB
@@ -186,7 +186,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 7
 
-<img src="" width="600>
+<img src="https://user-images.githubusercontent.com/91910634/160181402-db624e77-2b21-4359-98e6-5c19077defad.png" width="700">
 
 - Chipset: Apple A10 Fusion
 - Memory: 2GB
@@ -200,7 +200,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 7 Plus
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160181176-2dc311e8-9f3c-4a06-996f-fd91a7a10f4f.png" width="600">
 
 - Chipset: Apple A10 Fusion
 - Memory: 3GB
@@ -214,7 +214,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 8
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160188927-5403a1a2-be79-4b27-b819-2cd034ed5323.png" width="400">
 
 - Chipset: Apple A11 Bionic
 - Memory: 2GB
@@ -228,7 +228,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 8 Plus
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160189243-eaa8cef1-b035-49fa-95bf-a94de75060e9.png" width="500">
 
 - Chipset: Apple A11 Bionic
 - Memory: 3GB
@@ -242,7 +242,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone X
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160189461-aaad2a87-a947-4efe-8f51-fc7c42135e91.png" width="300">
 
 - Chipset: Apple A11 Bionic
 - Memory: 3GB 
@@ -256,7 +256,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone XR
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160190068-6a8da481-04bb-40ce-bf45-76c3b32a1610.png" width="400">
 
 - Chipset: Apple A12
 - Memory: 3GB
@@ -270,7 +270,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone XS
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160190350-1bf95c5a-cd8a-460c-a43b-e9f74160ddfd.png" width="400">
 
 - Chipset: Apple A12
 - Memory: 4GB
@@ -284,7 +284,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone XS Max
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160190643-0deeecde-d15f-4aa4-b16c-00c1ea814e45.png" width="300">
 
 - Chipset: Apple A12 Bionic
 - Memory: 4GB
@@ -298,7 +298,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 11
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160190834-9594022c-f1ab-48ef-93eb-b8869c2e96ae.png" width="500">
 
 - Chipset: Apple A13 Bionic 
 - Memory: 4GB
@@ -312,7 +312,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 11 Pro
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160191754-56fa7f25-8dcd-4aab-adef-e607f90b325b.png" width="300">
 
 - Chipset: Apple A13 Bionic 
 - Memory: 4GB
@@ -326,7 +326,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 11 Pro Max
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160191941-34ca907b-3d97-4000-92be-40cbeba8d439.png" width="600">
 
 - Chipset: Apple A13 Bionic 
 - Memory: 4GB
@@ -340,7 +340,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone SE (2nd Gen)
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160192149-4269d838-4f02-4c45-9656-fc2694cdb7d9.png" width="400">
 
 - Chipset: Apple A13 Bionic 
 - Memory: 3GB
@@ -354,7 +354,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 12 Mini
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160192319-438d79bb-3eff-446d-8b95-2d283e6ac84f.png" width="300">
 
 - Chipset: Apple A14 Bionic 
 - Memory: 4GB
@@ -368,7 +368,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 12
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160192633-782aef9a-9c29-4c43-86cc-56934d06ec73.png" width="500">
 
 - Chipset: Apple A14 Bionic 
 - Memory: 4GB
@@ -382,7 +382,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 12 Pro
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160193337-1135d237-2e84-4727-a8fc-036bb6838905.png" width="600">
 
 - Chipset: Apple A14 Bionic 
 - Memory: 6GB
@@ -396,7 +396,7 @@ This repository contains the history of the iPhone including the specs, release 
 
 # iPhone 12 Pro Max
 
-<img src="" width"600">
+<img src="https://user-images.githubusercontent.com/91910634/160193572-a84c2dc4-0c92-4a87-9b1e-da5ec81ed1d8.png" width="400">
 
 - Chipset: Apple A14 Bionic 
 - Memory: 6GB
